@@ -1,0 +1,13 @@
+header{
+    color: aliceblue;
+    background-color: rgb(25, 146, 226);
+}
+
+/* celular */
+@media (max-width:500px){
+    header{
+        background-color: green;
+    }
+}
+
+

@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.topo {
+    background: green;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.conteudo {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}

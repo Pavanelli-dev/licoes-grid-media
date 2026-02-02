@@ -1,0 +1,14 @@
+
+.card{
+    display: grid 50%;
+    background: #11aa9d;
+    padding: 30px;
+    text-align: center;
+    gap: 20px;
+}
+
+@media (max-width:900px){
+    .card{
+        grid-template-columns:100%;
+    }
+}
